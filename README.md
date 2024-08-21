@@ -1,9 +1,9 @@
 # Speech-to-speech_Translator
-This project is a voice-based translator that uses speech recognition, text translation, and text-to-speech (TTS) to translate spoken English into Hindi. The system is designed to interact with the user, recognize their spoken words, translate them into a single language u want using different Language code, and then speak the translated text aloud.
+This project is a voice-based translator that uses speech recognition, text translation, and text-to-speech (TTS) to translate spoken language into the language u want. The system is designed to interact with the user, recognize their spoken words, translate them into a single language u want using different Language code, and then speak the translated text aloud.
 
 # *Features*
 **Speech Recognition**: Captures and processes spoken language using a microphone.
-**Translation**: Translates recognized English text into any language u want using GoogleTranslator.
+**Translation**: Translates recognized any language text into any language u want using GoogleTranslator.
 **Text-to-Speech**: Converts the translated text into speech and plays it back to the user.
 
 # *Technologies Used*
